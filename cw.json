@@ -1,0 +1,22 @@
+{
+    "version": "2.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.1/cw_2.1.1_Windows_i386.tar.gz",
+            "bin": "cw.exe",
+            "hash": "4b26440280a5da2095dd2a769820a0bbe8cd3d65fcc33adda5a0a111f6e9588d"
+        },
+        "64bit": {
+            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.1/cw_2.1.1_Windows_x86_64.tar.gz",
+            "bin": "cw.exe",
+            "hash": "787a6ded76eec9d3bc69988e7ab6f065bf05ab13f298953e1af481318509dbc1"
+        }
+    },
+    "homepage": "https://www.lucagrulla.com/cw",
+    "license": "Apache-2.0",
+    "description": "The best way to tail AWS Cloudwatch Logs from your terminal",
+    "persist": [
+        "data",
+        "config.toml"
+    ]
+}
