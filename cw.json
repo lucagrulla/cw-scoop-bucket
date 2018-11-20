@@ -1,15 +1,15 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.1/cw_2.1.1_Windows_i386.tar.gz",
+            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.2/cw_2.1.2_Windows_i386.tar.gz",
             "bin": "cw.exe",
-            "hash": "4b26440280a5da2095dd2a769820a0bbe8cd3d65fcc33adda5a0a111f6e9588d"
+            "hash": "0f4e1830a3a4f9ef75e6860037c0ce0b5609e31947456834e48f8e8e8cc58897"
         },
         "64bit": {
-            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.1/cw_2.1.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/lucagrulla/cw/releases/download/v2.1.2/cw_2.1.2_Windows_x86_64.tar.gz",
             "bin": "cw.exe",
-            "hash": "787a6ded76eec9d3bc69988e7ab6f065bf05ab13f298953e1af481318509dbc1"
+            "hash": "e3fd0d66d2140aec51d5dc23bd52b662fe4313df8d6668788c987d3d8e01b243"
         }
     },
     "homepage": "https://www.lucagrulla.com/cw",
