@@ -6,14 +6,14 @@
             "bin": [
                 "cw.exe"
             ],
-            "hash": "da7796870443f2b2a8baae2fdcc11793138e6c8e47e877d795ee1ec9a1befc59"
+            "hash": "6d7c5124f8e39b94225282a9449d1ba3c3d154a45be80bc3042b716948bf1f94"
         },
         "64bit": {
             "url": "https://github.com/lucagrulla/cw/releases/download/v3.0.1/cw_3.0.1_Windows_x86_64.tar.gz",
             "bin": [
                 "cw.exe"
             ],
-            "hash": "5f11d75cf0f716151d2705d1a50c05068ee7cbb19431e42364d60e8432a0014e"
+            "hash": "16ab2b62a7214c72f1ec94f367adfd9c3f51854709aabc6b8fa4c2a790af41ef"
         }
     },
     "homepage": "https://www.lucagrulla.com/cw",
